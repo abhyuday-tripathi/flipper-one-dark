@@ -1,0 +1,31 @@
+{
+  "name": "flippers",
+  "displayName": "Flippers",
+  "description": "Atom One Dark based theme",
+  "publisher": "AbhyudayTripathi",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "keywords": [
+    "One",
+    "Dark",
+    "Theme",
+    "Color",
+    "Atom"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "author": "Abhyuday Tripathi",
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Flippers - One Dark Based",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Flippers - One Dark Based-color-theme.json"
+      }
+    ]
+  }
+}
