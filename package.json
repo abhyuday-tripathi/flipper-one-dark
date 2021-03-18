@@ -3,6 +3,7 @@
   "displayName": "Flippers",
   "description": "Atom One Dark based theme",
   "publisher": "AbhyudayTripathi",
+  "icon": "logo-flipper.png",
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.54.0"
